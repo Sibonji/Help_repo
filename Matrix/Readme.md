@@ -1,4 +1,4 @@
-#README
+# README
 
 - To compile programm type make in your command line.
 - To run programm type ./matrix in your command line.
